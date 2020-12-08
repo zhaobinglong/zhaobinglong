@@ -7,7 +7,7 @@
 姓名：赵冰龙，男
 电话：13618516602
 城市：深圳
-生日：1992-10
+出生：1992-10
 网站：https://github.com/zhaobinglong
 邮件：zhaobinglong1992@gmail.com
 求职意向：高级前端工程师（医疗/金融方向）
